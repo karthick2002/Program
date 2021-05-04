@@ -26,8 +26,4 @@ public pageobjects() {
 
 	@FindBy(xpath = "(//*[contains(@class,'s-image')])[2]")
 	public WebElement SecondProduct;
-	
-	
-	
-	
 }
